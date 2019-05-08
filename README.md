@@ -1,7 +1,8 @@
 # IEEE-ISI-World-Cup-2019-Company-Investment-Value-Evaluation
 
 赛题网址：http://www.linkx.ac.cn/#/title <br>
-总共两道赛题：<br>
+总共两道赛题：
+第一道，属于回归问题；第二道，多标签问题，可以当回归、分类来做。<br>
 ## 背景介绍
 IEEE ISI 是安全信息学领域的旗舰会议，于2003年首次在美国亚利桑那州图森市召开。在过去的16年中，IEEE ISI会议已经从传统的智能和安全领域发展到多领域联合研究与创新。今年7月，IEEE ISI大会将在中国深圳举行。 <br>
 
